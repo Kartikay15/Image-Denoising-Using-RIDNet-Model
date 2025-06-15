@@ -1,0 +1,9 @@
+patchify
+keras
+opencv-python
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+pandas
+scikit-image
